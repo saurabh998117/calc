@@ -1,3 +1,4 @@
-# calc
-Calculator App : A calculator app having basic functions like add, subtract, divide, multiply. You can use any language to create the app.
-this is a calculator project
+Calculator App :
+A calculator app having basic functions like
+add, subtract, divide, multiply. You can use
+any language to create the app.
